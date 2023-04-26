@@ -30,11 +30,14 @@ The project uses Selenium WebDriver for testing web applications and includes th
 - junit-jupiter-engine (version 5.8.2): A unit testing framework for Java.
 - log4j (version 1.2.17): A Java-based logging utility for generating log messages from applications.
 
+UML
+
 
 
 ![LcwaikikiSeleniumProjectUML](images/LcwaikikiSeleniumProjectUML.PNG)
 
 
+LOG
 
 
 ![LcwaikikiLog](images/LcwaikikiLog.PNG)

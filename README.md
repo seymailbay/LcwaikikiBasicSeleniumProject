@@ -25,3 +25,8 @@ Steps;
 
 
 ![LcwaikikiSeleniumProjectUML](images/LcwaikikiSeleniumProjectUML.PNG)
+
+
+
+
+![LcwaikikiLog](images/LcwaikikiLog.PNG)

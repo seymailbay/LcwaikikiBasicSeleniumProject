@@ -21,3 +21,7 @@ Steps;
 ● After the test is finished, the driver is turned off.
 
 ● Assertion is used at every step to check the correctness of the pages.
+
+
+
+![LcwaikikiSeleniumProjectUML](images/LcwaikikiSeleniumProjectUML.PNG)
